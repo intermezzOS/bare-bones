@@ -1,9 +1,10 @@
 # intermezzOS: kernel
 
-[![Build Status](https://travis-ci.org/intermezzOS/kernel.svg?branch=master)](https://travis-ci.org/intermezzOS/kernel)
+intermezzOS is a hobby operating system. This repository is for a "bare bones" of its kernel.
+See [the website](http://intermezzos.github.io/) for more about the project overall.
 
-intermezzOS is a hobby operating system. This repository is for its kernel.
-See [the website](http://intermezzos.github.io/) for more.
+A "bare bones" is a ready-made beginning of an operating system. The code you'll find here
+will go "from boot to kmain," ready for you to write your own kernel on top of.
 
 Also, feel free to join us at `#intermezzOS` on Freenode’s IRC network, if you
 want to chat.
